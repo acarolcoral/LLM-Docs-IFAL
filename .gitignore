@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+models/
+*.gguf
+*.bin
+*.h5
+*.pt
+*.pth
+.DS_Store
+Thumbs.db
+EOF
